@@ -1,5 +1,5 @@
 import "./App.css";
-import ProductCard from "./components/ProductCard";
+import ProductCard from "./components/ProductCard/ProductCard";
 import { products } from "./data/products";
 
 function App() {
@@ -13,3 +13,4 @@ function App() {
     </div>
   );
 }
+export default App;
