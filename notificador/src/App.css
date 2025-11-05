@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(211, 201, 189);
+}
+.painel {
+  font-family: Script MT, Brush Script Std, cursive;
+  /* font-family: Apple Chancery, cursive; */
+  color: rgb(33, 33, 34);
+  font-size: 25px;
+}
+div h1 {
+  font-family: Script MT, Brush Script Std, cursive;
+  color: rgb(132, 35, 35);
+  
+}
+/* .painel-container {
+} */
+button {
+  font-family: "Courier New", Courier, monospace;
+  background-color: black;
+}
+.maior {
+  width: 555px;
+  background-color: burlywood;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmXmSU3zK_lRf0YIuW6Ib-YZYWCU9JwKzwHg&s);
+  background-size: auto;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  border-radius: 12px;
+}
+
